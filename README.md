@@ -1,1 +1,3 @@
-# gravitational-wave-spectrogram-classification
+# Gravitational Wave Detection Through Spectrogram Classification
+###### Dec 2023
+Explored the physical, mathematical, and historical aspects surrounding gravitational waves; distinguished spectrogram images of gravitational wave events from non-detection events by building a convolutional neural network that achieved 100% accuracy (validation accuracy of above 99% and ROC AUC of 1.0); ran a new model with identical architecture on a different random permutation of the train test split, achieving above 99% accuracy with similar validation accuracy and ROC AUC as before; and produced saliency maps.
